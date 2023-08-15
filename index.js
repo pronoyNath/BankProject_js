@@ -1,3 +1,4 @@
+console.log("email: beta@baap.com  \n pass:beta");
 document.getElementById('btn-sub').addEventListener('click',function(){
    
     let userEmail = document.getElementById('user-email').value;
